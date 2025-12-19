@@ -3,12 +3,12 @@
 เว็บไซต์สำหรับ **วัตกรรมยานยนต์** พัฒนาระบบอัตโนมัติที่ล้ำสมัยเพื่อขับเคลื่อนอนาคตของการเดินทางที่ปลอดภัย สะดวกสบาย และยั่งยืน ภารกิจของเราคือการสร้างสรรค์โซลูชั่นที่เปลี่ยนประสบการณ์การขับขี่ให้เหนือกว่า ด้วยเทคโนโลยีอัจฉริยะและการออกแบบที่มุ่งเน้นผู้ใช้
 
 ## โครงสร้างไฟล์
-
+```
 my-business-web/
 │
 ├─ about.html
 ├─ contact.html
-├─ index.html
+├─ index.html 
 ├─ README.md
 ├─ services.html
 ├─ css
@@ -23,27 +23,26 @@ my-business-web/
 ├─ Member-2.png
 ├─ Member-3.png
 └─ Services.png
-
+```
     ---
 
 ## รูปหน้าจอ
 
 ### 1. หน้า Home
 
-![Home](images\Index.png)
+![Home](images\CSSIndex.png)
 
 ### 2. หน้า About
 
-![About](images\About-1.png)
-![About](images\About-2.png)
+![About](images\CSSAbout.png)
 
 ### 3. หน้า Services
 
-![Services](images\Services.png)
+![Services](images\CSSServices.png)
 
 ### 4. หน้า Contact
 
-![Contact](images\Contact.png)
+![Contact](images\CSSContact.png)
 
 ---
 
