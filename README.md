@@ -11,7 +11,8 @@ my-business-web/
 ├─ index.html
 ├─ README.md
 ├─ services.html
-│
+├─ css
+├  └── styles.css
 └─ images/
 ├─ About-1.png
 ├─ About-2.png
